@@ -33,3 +33,5 @@ var wysihtml5 = {
   SPACE_KEY:      32,
   DELETE_KEY:     46
 };
+
+module.exports = wysihtml5
